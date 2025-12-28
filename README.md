@@ -17,3 +17,5 @@ Skills:
 ● Familiarity with personal finance concepts and budgeting techniques
 
 ● Effective communication skills to explain financial insights to non-technical users
+
+![finanace dashboard](https://github.com/user-attachments/assets/2dff7ab5-e3a4-4f16-8867-aa078cfa6d39)
